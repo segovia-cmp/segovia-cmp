@@ -7,17 +7,20 @@
 
 
 # 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segovia-cmp&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+<a href="https://github.com/joaovitor8">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=segovia-cmp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segovia-cmp&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
   
  
- ## Skills
+ ## I am learning
 
 ![Pytohn](https://img.shields.io/badge/Python-2C2D72?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](	https://img.shields.io/badge/Plotly-2C2D72?style=for-the-badge&logo=plotly&logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=segovia-cmp&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projeto
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segovia-cmp&repo=projeto_zomato&theme=radical)](https://github.com/segovia-cmp/projeto_zomato.git)
