@@ -6,6 +6,4 @@
 ![Plotly](	https://img.shields.io/badge/Plotly-2C2D72?style=for-the-badge&logo=plotly&logoColor=white)
 
 
-## Projeto
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=segovia-cmp&repo=projeto_zomato&theme=radical)](https://github.com/segovia-cmp/projeto_zomato.git)
 
